@@ -178,7 +178,7 @@ phpinfo();`
 
 `CREATE USER 'example_user'@'%' IDENTIFIED WITH mysql_native_password BY 'password';`
 
-![creates a new user named example_user, using mysql_native_password as default](./images/create_database.jpg)
+![creates a new user named example_user, using mysql_native_password as default](./images/creates%20new%20use%20with%20password%20policy.jpg)
 
 *Give this user permission over the example_database database, then exit*
 
